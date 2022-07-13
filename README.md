@@ -1,5 +1,5 @@
 # The-Frontend-Developer-Career-Path
-** The Frontend Developer Career Path from Scrimba **
+**The Frontend Developer Career Path from Scrimba**
 
 ## This repo is my notes and journey with Scrimba's Frontend Dev Career Path. 
 
@@ -30,6 +30,7 @@ This career path will turn me into a hireable frontend developer, and teach me h
 ** Skills to learn **
 
 | HTML | CSS |
+| --- | --- |
 | JavaScript | React |
 | APIs | Web architecture |
 | Responsive design | Web Design |
@@ -40,13 +41,14 @@ This career path will turn me into a hireable frontend developer, and teach me h
 ** Projects to build **
 
 | Passenger counter app | Blackjack game |
+| --- | --- |
 | Dice game | BBQ page |
 | Pac - Man | Bored Bot |
 | A personal portfolio | React fact page |
 | AirBnB | Meme Generator |
 | Tenzies Game | Photo Store |
 
-** Teachers **
+**Teachers**
 
 The Frontend Developer Career Path combines the best talent in each domain. For every single subject we handpick tutors to craft your curriculum.
 
