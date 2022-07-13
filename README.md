@@ -9,7 +9,7 @@ This career path will turn me into a hireable frontend developer, and teach me h
 
 ---
 
-** Module List **
+## Module List 
 
 1. Welcome to the career path
 2. Web Dev Basics
@@ -27,7 +27,7 @@ This career path will turn me into a hireable frontend developer, and teach me h
 14. Advanced React
 15. Getting Hired
 
-** Skills to learn **
+## Skills to learn
 
 | HTML | CSS |
 | --- | --- |
@@ -38,7 +38,7 @@ This career path will turn me into a hireable frontend developer, and teach me h
 | The job search | getting hired |
 | Coding interviews | --------- | 
 
-** Projects to build **
+## Projects to build 
 
 | Passenger counter app | Blackjack game |
 | --- | --- |
