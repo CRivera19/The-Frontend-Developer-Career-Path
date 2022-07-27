@@ -1,0 +1,21 @@
+body {
+    background: no-repeat center/100% url("./images/foodtruck.jpg");
+}
+main {
+    background-color: rgba(240, 248, 255, 0.242);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    color:white;
+    text-align: center;
+
+}
+#sales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#btngroup {
+    flex-flow: wrap;
+}
