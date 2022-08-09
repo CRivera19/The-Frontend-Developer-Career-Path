@@ -1,21 +1,49 @@
-body {
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
     background: no-repeat center/100% url("./images/foodtruck.jpg");
+    height: 100%;
+    overflow: hidden;
+}
+body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
 }
 main {
-    background-color: rgba(240, 248, 255, 0.242);
+    display: inline-flex;
+    background-color: rgba(208, 204, 204, 0.682);
     border: 2px solid black;
     border-radius: 5px;
-    padding: 20px;
+    padding: 10px;
     color:white;
     text-align: center;
-
+}
+#food-sold {
+    padding: 10px;
 }
 #sales {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    text-shadow: 3px 4px 7px rgba(26, 26, 26, 0.8);
+    padding-bottom: 20px;
 }
-#btngroup {
-    flex-flow: wrap;
+#btn-group {
+    display: flex;
+    justify-content: space-between;
+
+}
+.btn {
+    font-size: large;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: white;
+    text-shadow: 3px 4px 7px rgba(26, 26, 26, 0.8)
+}
+#count {
+    padding: 10px;
 }
