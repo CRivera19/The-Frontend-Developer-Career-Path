@@ -16,12 +16,18 @@
                 <h2 id="count">0</h2>
             </div>
             <div id="btn-group">
-                <button class="btn">➕</button>
-                <button class="btn">🔙</button>
+                <button id="add" class="btn" onclick="increment()">➕</button>
+                <button id="subtract" class="btn" onclick="decrement()"> ➖ </button>
+                <button id="reset" class="btn" onclick="reset()"> 🔁 </button>
+                <button id="save" class="btn" onclick="save()" >💾</button>
                 <button class="btn">⏮</button>
-                <button class="btn">💾</button>
+                <script src="index.js"></script>
+            </div>
+            <div class="container">
+                <h3 class="title">How many tacos did we sell today?</h3>
+                <p id="order">Date + Orders</p>
             </div>
         </div>   
     </main>
 </body>
-<script src="index.js">
+
